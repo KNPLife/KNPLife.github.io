@@ -8,6 +8,4 @@ order: 1
 
 # Personal Projects
 
-# Design
-
 # Maker
