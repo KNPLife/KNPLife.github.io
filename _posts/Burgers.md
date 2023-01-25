@@ -1,3 +1,8 @@
+---
+layout: page
+title: Burgers
+---
+
 # Burgers
 
 The following is based on beef mince (ground beef for you Muricans) of about 1 kg.
