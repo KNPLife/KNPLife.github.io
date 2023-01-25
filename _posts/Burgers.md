@@ -1,6 +1,8 @@
 ---
-layout: page
 title: Burgers
+date: 2023-01-24 11:00
+categories: [recipes]
+tags: [recipes,savoury]
 ---
 
 # Burgers
