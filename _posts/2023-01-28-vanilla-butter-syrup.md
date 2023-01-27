@@ -27,7 +27,6 @@ If you need a quick and easy sweet sauce, for pancakes, or because you were too 
 
 >***PRO TIP***
 >
->If I go to the effort of writing any instructions, you should probably follow them.<br>
 >Use a big enough saucepan. In case you don't know, boiling butter and sugar expands and if you paid attention in science, well, baking soda. 🌋
 {: .prompt-info}
 
