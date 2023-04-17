@@ -37,6 +37,7 @@ This recipe is based on 1.5 kg of boneless skinless chicken thighs. Adjust to su
 - [Butter Chicken Seasoning](https://leenaspices.co.nz/products/butter-chicken-curry-masala) 3 heaped tsp
 - Brown Sugar 0.33 cup
 - Passata 600 g
+- Butter 80 g
 
 ## To Finish
 
