@@ -10,6 +10,8 @@ tags: [wood working, kids, plans, furniture]
 
 # Material
 
+wood 
+
 </br>
 
 >***PRO TIP***
@@ -17,9 +19,10 @@ tags: [wood working, kids, plans, furniture]
 
 # Cut List
 
+watch your fingers
+
 </br>
 
 # Instructions
 
-</br>
-
+instructions
