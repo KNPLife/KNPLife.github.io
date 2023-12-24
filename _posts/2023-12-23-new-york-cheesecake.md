@@ -5,7 +5,8 @@ categories: [recipes]
 tags: [recipes,sweet]
 --- 
 
-Ingredients
+# Ingredients
+
 - 515.6 g plain sweet biscuits crushed, like Arnott's Nice or Marie biscuits or Graham Crackers
 - 343.8 g unsalted butter melted
 - 1031.3 g full fat cream cheese room temp
@@ -22,7 +23,7 @@ Ingredients
 
 <br>
 
-Instructions
+# Instructions
 
 - Preheat oven to 140 degrees celsius or 285 degrees fahrenheit with a fan forced oven (160 degrees celsius or 320 degrees fahrenheit if using a conventional oven).
 - Grease and then line the base and sides of a 23cm springform pan with non-stick baking paper (see recipe tips below).
