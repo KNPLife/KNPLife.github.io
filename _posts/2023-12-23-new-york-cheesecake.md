@@ -1,6 +1,6 @@
 --- 
 title: New York Cheesecake
-date: 2023- 12- 23 11:00
+date: 2023-12-23 11:00
 categories: [recipes]
 tags: [recipes,sweet]
 --- 
