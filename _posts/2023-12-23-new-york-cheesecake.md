@@ -5,6 +5,13 @@ categories: [recipes]
 tags: [recipes,sweet]
 --- 
 
+>***Tips***
+>
+>
+>- This is a *measurements matter* kinda recipe.
+>   - If I say this, the tsp/Tbsp etc. are level unless stated.
+{: .prompt-tip }
+
 # Ingredients
 
 - 515.6 g plain sweet biscuits crushed, like Arnott's Nice or Marie biscuits or Graham Crackers
@@ -23,10 +30,17 @@ tags: [recipes,sweet]
 
 <br>
 
+>***PRO TIP***
+>
+>Baked cheesecakes aren't that difficult. Recipes often have the temperature too high.
+>Water baths are often not necessary. Keep the temperature down. 
+>140°C in a fan bake oven is plenty.
+{: .prompt-info}
+
 # Instructions
 
 - Preheat oven to 140 degrees celsius or 285 degrees fahrenheit with a fan forced oven (160 degrees celsius or 320 degrees fahrenheit if using a conventional oven).
-- Grease and then line the base and sides of a 23cm springform pan with non-stick baking paper (see recipe tips below).
+- Grease and then line the base and sides of a 23cm spring-form pan with non-stick baking paper (see recipe tips below).
 - Finely crush the biscuits in a food processor and then place into a large bowl.
 - Add the melted butter and mix thoroughly until well combined.
 - Spoon half of the biscuit crumbs onto the base of the prepared tin. Use a glass to press the mixture down evenly (you will also need to use a spoon to press the edges down firmly).
